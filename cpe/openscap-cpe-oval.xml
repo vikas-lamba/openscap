@@ -510,7 +510,7 @@
                         <affected family="unix">
                             <platform>openSUSE 42.1</platform>
                         </affected>
-                        <reference ref_id="cpe:/o:novell:leap:42.1" source="CPE"/>
+                        <reference ref_id="cpe:/o:opensuse:leap:42.1" source="CPE"/>
                         <description>The operating system installed on the system is openSUSE 42.1</description>
                   </metadata>
                   <criteria>
@@ -523,7 +523,7 @@
                         <affected family="unix">
                             <platform>openSUSE 42.2</platform>
                         </affected>
-                        <reference ref_id="cpe:/o:novell:leap:42.2" source="CPE"/>
+                        <reference ref_id="cpe:/o:opensuse:leap:42.2" source="CPE"/>
                         <description>The operating system installed on the system is openSUSE 42.2</description>
                   </metadata>
                   <criteria>
